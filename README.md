@@ -1,3 +1,4 @@
 # hello-world
-Jerrian Tocmo
-This is going to be part of my first commit.
+Jerrian Tocmo.
+
+This sentence is going to be part of my first commit.
