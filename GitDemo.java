@@ -39,7 +39,7 @@ public class GitDemo {
      *  the function will return 4321
      *****/
     public double reverseNumber(double num){
-   
+     
       double factorialNumber = 0;
         
         while( num != 0 ) {
@@ -47,7 +47,8 @@ public class GitDemo {
             factorialNumber = factorialNumber * 10 + temp;
             num /= 10;
         }
-        
+        reverseNum = factorialNumber;
+     
         return factorialNumber;
     }
 
